@@ -1,0 +1,8 @@
+{
+  "buildCommand": "pnpm install --prefer-offline && pnpm run build",
+  "outputDirectory": ".",
+  "framework": null,
+  "ignoreCommand": "echo deploy"
+}
+
+
